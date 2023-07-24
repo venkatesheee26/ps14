@@ -1,0 +1,8 @@
+D:\ps\ps14\ps14\bin\Debug\ps14.exe.config
+D:\ps\ps14\ps14\bin\Debug\ps14.exe
+D:\ps\ps14\ps14\bin\Debug\ps14.pdb
+D:\ps\ps14\ps14\obj\Debug\ps14.csproj.AssemblyReference.cache
+D:\ps\ps14\ps14\obj\Debug\ps14.csproj.SuggestedBindingRedirects.cache
+D:\ps\ps14\ps14\obj\Debug\ps14.csproj.CoreCompileInputs.cache
+D:\ps\ps14\ps14\obj\Debug\ps14.exe
+D:\ps\ps14\ps14\obj\Debug\ps14.pdb
